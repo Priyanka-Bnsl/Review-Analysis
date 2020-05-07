@@ -1,2 +1,2 @@
 # Review-Analysis
-Predict whether the review is positive or negative
+Predict whether a review is positive or negative
